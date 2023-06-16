@@ -1,0 +1,14 @@
+h1 {
+            text-align: center;
+          }
+          
+          #cart-items {
+            margin: 20px;
+          }
+          
+          #checkout-btn {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            font-size: 18px;
+          }
